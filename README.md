@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋-->
 # Hey there👋, Welcome to my Github Profile
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects&pause=1000&random=false&width=435&lines=Hey!+its+Pranav" alt="Typing SVG" /></a>
-<h1>[My Portfolio](https://portfolio-pranav-aggarwals-projects.vercel.app/)</h1>
+# [My Portfolio](https://portfolio-pranav-aggarwals-projects.vercel.app/)
 
 <!--
 **Pranav-1100/Pranav-1100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
