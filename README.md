@@ -81,9 +81,12 @@ I'm a developer who enjoys building useful and scalable applications. My experie
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pranav-1100&show_icons=true&count_private=true&theme=aura&hide_border=true&border_radius=10" alt="Pranav's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-1100&theme=aura&hide_border=true&border_radius=10" alt="Pranav's GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Pranav-1100&theme=aura&hide_border=true&border_radius=10" alt="Pranav's GitHub Streak" width="49%" />
 </div>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aatmik-panse&theme=tokyonight" alt="aatmik-panse" />
+</p>
 
 
 <div align="center">
